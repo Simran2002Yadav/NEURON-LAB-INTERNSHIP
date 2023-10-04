@@ -191,7 +191,7 @@ plot8<- ggplot(df, aes(x = Country, y = `Total.Cases_Millions`, fill = `HDI`)) +
   geom_bar(stat = "identity") +
   geom_text(aes(label = `Total.Deaths_Millions`), vjust = -0.5, size = 3) +
   labs(
-    title = "GDP During Covid",
+    title = "HDI During Covid",
     x = "Country",
     y = "Total Cases",
     fill = "HDI"
