@@ -1,3 +1,6 @@
+## Task 4
+
+In this analysis, I explored a 6-year dataset related to aerial bombings during World War II, focusing on how various weather conditions changed over time. The dataset was visualized using a variety of chart types, including bar plots, box plots, bubble plots, histograms, area charts, line charts, scatter plots, and waterfall charts. The insights drawn from these visualizations provided a clearer understanding of temperature trends and their relationships with other variables.
 
 #####IMPORT DATA#####
 library(readxl)
