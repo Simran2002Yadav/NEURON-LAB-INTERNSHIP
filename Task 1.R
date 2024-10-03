@@ -1,4 +1,7 @@
 ##Task 1
+
+In this task, I performed exploratory data analysis (EDA) on a 12-month sales dataset, focusing on cleaning, handling outliers, and preparing the data for deeper analysis.
+
 ##Exploratory Data Analysis
 
 library(readxl)
