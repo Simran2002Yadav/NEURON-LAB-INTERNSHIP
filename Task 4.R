@@ -1,3 +1,7 @@
+# Task 4
+
+This analysis provided a detailed overview of the global impact of COVID-19, highlighting not only the spread of the virus but also its significant economic and social consequences. The use of R and ggplot2 allowed for a comprehensive examination of key patterns, offering valuable insights into the factors influencing the pandemic’s outcomes worldwide.
+
 library(readxl)
 data <- read_excel("C:/Users/Aashish S/Desktop/transformed_data.xlsx")
 View(data)
